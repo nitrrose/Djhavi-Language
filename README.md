@@ -6,7 +6,7 @@ At current, the conlang is *very* basic, with only three tenses -- preterite (I 
 The final Djhavi repo will feature:
 - a dictionary containing every known noun, adjective, infinitive verb, etc.
 - a cheatsheet explaining how to conjugate verbs into each different tense
-- - incl: preterite, present, conditional, and pure future
+  - incl: preterite, present, conditional, and pure future
 - a guide on how to structure sentences and form names in the Djhavi language
 - a guide on how to speak and transcribe the Djhavi language
 - and a quick introduction to the Djhavi language, explaining its origin and other tidbits, such as the tribes' beliefs, etc.
