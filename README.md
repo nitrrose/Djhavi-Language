@@ -1,4 +1,4 @@
-# Djhavi-Conlang
+# Djhavi-Language
 A simple glyphic language that I have recently began to uncover.
 
 At current (07.06.24), the language is only partially understood, with only three tenses that I have learnt -- preterite (I did), present (I do), and pure future (I will do) -- and a limited vocabulary, however I am actively learning more about its inner workings.
