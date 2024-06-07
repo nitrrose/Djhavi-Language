@@ -1,7 +1,8 @@
 # The Djhavian Language
 Djhavi is a relatively complex glyphic language that I have recently began to uncover.
+I first encountered the language on 04.06.2024, and have been researching it since.
 
-At current (07.06.24), the language is only partially understood, with only three tenses that I have learnt -- preterite (I did), present (I do), and pure future (I will do) -- and a limited vocabulary, however I am actively learning more about its inner workings.
+At current (07.06.2024), the language is only partially understood, with only three tenses that I have learnt -- preterite (I did), present (I do), and pure future (I will do) -- and a limited vocabulary, however I am actively learning more about its inner workings.
 
 In the future, I am aiming for this repository to feature:
 - ~~a dictionary containing every known noun, adjective, infinitive verb, etc. that I have found.~~
