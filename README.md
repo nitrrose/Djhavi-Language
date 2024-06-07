@@ -1,7 +1,7 @@
 # Djhavi-Conlang
 A simple glyphic conlang that I have recently began developing.
 
-At current (07.06.24), the conlang is *very* basic, with only three tenses -- preterite (I did), present (I do), and pure future (I will do)) -- and a limited vocabulary, however I am actively expanding its features
+At current (07.06.24), the conlang is *very* basic, with only three tenses -- preterite (I did), present (I do), and pure future (I will do) -- and a limited vocabulary, however I am actively expanding its features
 
 The final Djhavi repo will feature:
 - a dictionary containing every known noun, adjective, infinitive verb, etc.
