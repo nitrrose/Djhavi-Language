@@ -4,7 +4,7 @@ Djhavi is a relatively complex glyphic language that I have recently began to un
 At current (07.06.24), the language is only partially understood, with only three tenses that I have learnt -- preterite (I did), present (I do), and pure future (I will do) -- and a limited vocabulary, however I am actively learning more about its inner workings.
 
 In the future, I am aiming for this repository to feature:
-- a dictionary containing every known noun, adjective, infinitive verb, etc. that I have found.
+- ~~a dictionary containing every known noun, adjective, infinitive verb, etc. that I have found.~~
 - ~~a cheatsheet explaining how to conjugate verbs into each different tense that I know of.~~
   - ~~incl: preterite, present, conditional (I know it exists, but I cannot translate as of yet), and pure future~~
 - ~~a guide on how to structure sentences and form names in the Djhavi language.~~
